@@ -1,1 +1,92 @@
 
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0B1220;
+    color: white;
+}
+
+
+header {
+
+    background: #111827;
+    padding: 20px;
+    text-align: center;
+
+}
+
+
+h1 {
+
+    color: #F5C542;
+
+}
+
+
+nav a {
+
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+
+}
+
+
+nav a:hover {
+
+    color: #F5C542;
+
+}
+
+
+.hero {
+
+    text-align: center;
+    padding: 50px;
+
+}
+
+
+.hero input {
+
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+
+.container {
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    gap: 20px;
+    padding: 30px;
+
+}
+
+
+.card {
+
+    background: #151F32;
+    padding: 25px;
+    border-radius: 15px;
+
+}
+
+
+.card h2 {
+
+    color: #3B82F6;
+
+}
+
+
+footer {
+
+    text-align:center;
+    padding:20px;
+    background:#111827;
+
+}
