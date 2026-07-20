@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Patrick Mahomes",
+        "position": "QB",
+        "team": "Kansas City Chiefs",
+        "age": 30,
+        "awards": [
+            "MVP",
+            "Super Bowl Champion"
+        ],
+        "passingYards": 32000,
+        "touchdowns": 250
+    },
+
+    {
+        "name": "Josh Allen",
+        "position": "QB",
+        "team": "Buffalo Bills",
+        "age": 29,
+        "awards": [
+            "MVP"
+        ],
+        "passingYards": 25000,
+        "touchdowns": 220
+    },
+
+    {
+        "name": "Justin Jefferson",
+        "position": "WR",
+        "team": "Minnesota Vikings",
+        "age": 27,
+        "awards": [
+            "All-Pro"
+        ],
+        "passingYards": 0,
+        "touchdowns": 40
+    }
+]
